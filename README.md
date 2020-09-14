@@ -1,6 +1,6 @@
-# FlightSurety
+# deflight-insurance
 
-FlightSurety is a sample application project for Udacity's Blockchain course.
+Using Oracles to get real time info on flights to then pay out insurance if a client's flight is delayed. 
 
 ## Install
 
